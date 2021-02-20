@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+
+@import "abstracts/_functions.scss";
+@import "abstracts/_mixins.scss";
+@import "abstracts/_variables.scss";
+
+@import "base/_base.scss";
+@import "base/_animations.scss";
+@import "base/_typography.scss";
+@import "base/_utilities.scss";
+
+@import "components/_compositions.scss";
+@import "components/_button.scss";
+@import "components/_feature-box.scss";
+@import "components/_cards.scss";
+@import "components/_story.scss";
+@import "components/_bg-video.scss";
+@import "components/_form.scss";
+@import "components/_popup.scss";
+
+@import "layouts/_header.scss";
+@import "layouts/_footer.scss";
+@import "layouts/_grid.scss";
+@import "layouts/_navigation.scss";
+
+@import "pages/_home.scss";
